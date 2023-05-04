@@ -1,5 +1,6 @@
 # Doc_ChatBot_That_Learns_Everything_For_You
-## AIM : I am trying to consider building a document-based ChatBot which is able to learn new knowledge from various data resources and provide accurate and useful responses on my queries within acceptable cost.
+## AIM  
+I am trying to consider building a document-based ChatBot which is able to learn new knowledge from various data resources and provide accurate and useful responses on my queries within acceptable cost.
 
 ## Block - Diagram
 ![block-diagram](https://user-images.githubusercontent.com/125289766/236161549-a08834d9-2533-4327-aca6-95502f02bbc8.png)
